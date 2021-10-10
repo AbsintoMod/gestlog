@@ -1,6 +1,6 @@
 Sistema de Logistica
 
-…or create a new repository on the command line
+or create a new repository on the command line
 
 echo "# gestlog" >> README.md
 git init
